@@ -1,0 +1,37 @@
+﻿medcodeid,term,condition
+6.21728E+15,Aggressive ex-smoker (finding),Q code group Ex-smoker
+250385010,Date ceased smoking (observable entity),Q code group Ex-smoker
+3513101011,Date ceased using moist tobacco (observable entity),Q code group Ex-smoker
+1.0597E+15,Ex roll-up cigarette smoker (finding),Q code group Ex-smoker
+6.49821E+14,Ex-cigar smoker (finding),Q code group Ex-smoker
+8.52991E+14,Ex-cigar smoker (finding),Q code group Ex-smoker
+418914010,Ex-cigarette smoker (finding),Q code group Ex-smoker
+5.49603E+15,Ex-cigarette smoker amount unknown (finding),Q code group Ex-smoker
+9.03041E+14,Ex-cigarette smoker amount unknown (finding),Q code group Ex-smoker
+250366012,Ex-heavy cigarette smoker (20-39/day) (finding),Q code group Ex-smoker
+2.73528E+15,Ex-heavy smoker (20-39/day) (finding),Q code group Ex-smoker
+250364010,Ex-light cigarette smoker (1-9/day) (finding),Q code group Ex-smoker
+2.73538E+15,Ex-light smoker (1-9/day) (finding),Q code group Ex-smoker
+250365011,Ex-moderate cigarette smoker (10-19/day) (finding),Q code group Ex-smoker
+2.73533E+15,Ex-moderate smoker (10-19/day) (finding),Q code group Ex-smoker
+6.49831E+14,Ex-pipe smoker (finding),Q code group Ex-smoker
+8.54051E+14,Ex-pipe smoker (finding),Q code group Ex-smoker
+250371017,Ex-smoker (finding),Q code group Ex-smoker
+2.63604E+15,Ex-smoker (finding),Q code group Ex-smoker
+2.98701E+14,Ex-smoker (finding),Q code group Ex-smoker
+6.49841E+14,Ex-smoker (finding),Q code group Ex-smoker
+2.73518E+15,Ex-smoker amount unknown (finding),Q code group Ex-smoker
+3513199018,Ex-smoker for less than 1 year (finding),Q code group Ex-smoker
+8.01757E+15,Ex-smoker for more than 1 year (finding),Q code group Ex-smoker
+1.59972E+15,Ex-tobacco chewer,Q code group Ex-smoker
+342602019,Ex-tobacco chewer (finding),Q code group Ex-smoker
+7.56899E+15,Ex-tobacco user (finding),Q code group Ex-smoker
+250363016,Ex-trivial cigarette smoker (<1/day) (finding),Q code group Ex-smoker
+2.73542E+15,Ex-trivial smoker (<1/day) (finding),Q code group Ex-smoker
+4.98077E+15,Ex-user of moist powdered tobacco (finding),Q code group Ex-smoker
+250367015,Ex-very heavy cigarette smoker (40+/day) (finding),Q code group Ex-smoker
+2.7352E+15,Ex-very heavy smoker (40+/day) (finding),Q code group Ex-smoker
+6.21715E+15,Intolerant ex-smoker (finding),Q code group Ex-smoker
+250373019,Stopped smoking (finding),Q code group Ex-smoker
+4.98056E+15,Time since stopped smoking (observable entity),Q code group Ex-smoker
+3.37414E+15,Tolerant ex-smoker (finding),Q code group Ex-smoker
